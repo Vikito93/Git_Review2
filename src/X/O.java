@@ -6,4 +6,5 @@ public class O {
 
         System.out.println("O");
     }
+
 }
